@@ -2,4 +2,4 @@
 
 Explanation about the code, the files, and how to run is in the file `תיק פרויקט.pdf`.
 
-< Made by Guy Gur-Arieh, 2019 >
+< Made by Guy Gur-Arieh, 2017 >
